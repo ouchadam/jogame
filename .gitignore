@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+IDE
+
+/.idea
+/classes
+/out
+*.iml
+
+Gradle
+
+/.gradle
+/build
